@@ -5,7 +5,7 @@
              | |-=-=-| |       | | | (o)__) | (o)__)  \__(o)\
   |\       __| |     | |__   __| | | |      | |       _____) )
   | \__/(O)___/       \___(O)___/  |_|      |_|      (______/
-   \___/ Bind Usability and User Experience, ...
+   \___/ Binds Usability and User Experience
 
 ```
                          
