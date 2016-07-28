@@ -1,15 +1,15 @@
 ```
-      _______           _____       _______  _______   ______
-     (___o___)\       /(__o__)  _  (  _____)(  _____) / _____)
-             | |     | |       | | | |____  | |____  ( (____
-             | |-=-=-| |       | | | (o)__) | (o)__)  \__(o)\
-  |\       __| |     | |__   __| | | |      | |       _____) )
-  | \__/(O)___/       \___(O)___/  |_|      |_|      (______/
-   \___/ Binds Usability and User Experience
+      _______           _____        _______   _______    ______
+     (___o___)\       /(__o__)  _   (  _____) (  _____)  / _____)
+             | |     | |       | |  | |____   | |____   ( (____
+             | |-=-=-| |       | |  | (o)__)  | (o)__)   \__(o)\
+  |\       __| |     | |__   __| |  | |       | |        _____) )
+  | \__/(O)___/       \___(O)___/   |_|       |_|       (______/
+   \___/ Break free from the bad habbits 
 
 ```
                          
-> UI framework for building modern web applications following common design patterns and improved user experience.
+> Kuhfs is a modular UI framework for building modern web applications following common design patterns and improved user experience.
 
 ## Credits
 
