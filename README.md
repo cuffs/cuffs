@@ -5,7 +5,7 @@
              | |-=-=-| |       | |  | (o)__)  | (o)__)   \__(o)\
   |\       __| |     | |__   __| |  | |       | |        _____) )
   | \__/(O)___/       \___(O)___/   |_|       |_|       (______/
-   \___/ Break free from the bad habbits 
+   \___/ Breaks free the old habbits 
 
 ```
                          
